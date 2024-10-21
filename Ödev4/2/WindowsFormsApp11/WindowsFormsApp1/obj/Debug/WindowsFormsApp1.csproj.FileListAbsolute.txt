@@ -1,0 +1,10 @@
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Mac\Home\Desktop\Visual Programming\WindowsFormsApp11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
