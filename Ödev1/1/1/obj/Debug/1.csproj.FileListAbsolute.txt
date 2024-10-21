@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\1\1\bin\Debug\1.exe.config
+\\Mac\Home\Desktop\1\1\bin\Debug\1.exe
+\\Mac\Home\Desktop\1\1\bin\Debug\1.pdb
+\\Mac\Home\Desktop\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\1\1\obj\Debug\1.exe
+\\Mac\Home\Desktop\1\1\obj\Debug\1.pdb

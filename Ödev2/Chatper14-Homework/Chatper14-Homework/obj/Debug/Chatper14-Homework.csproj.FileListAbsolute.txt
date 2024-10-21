@@ -1,0 +1,7 @@
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\bin\Debug\Chatper14-Homework.exe.config
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\bin\Debug\Chatper14-Homework.exe
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\bin\Debug\Chatper14-Homework.pdb
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\obj\Debug\Chatper14-Homework.csproj.AssemblyReference.cache
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\obj\Debug\Chatper14-Homework.csproj.CoreCompileInputs.cache
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\obj\Debug\Chatper14-Homework.exe
+C:\Users\berkaykarabulut\source\repos\Chatper14-Homework\Chatper14-Homework\obj\Debug\Chatper14-Homework.pdb
