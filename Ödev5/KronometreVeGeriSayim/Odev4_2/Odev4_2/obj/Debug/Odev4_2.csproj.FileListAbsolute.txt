@@ -1,0 +1,10 @@
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\bin\Debug\Odev4_2.exe.config
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\bin\Debug\Odev4_2.exe
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\bin\Debug\Odev4_2.pdb
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.csproj.AssemblyReference.cache
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.Form1.resources
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.Properties.Resources.resources
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.csproj.GenerateResource.cache
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.csproj.CoreCompileInputs.cache
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.exe
+C:\Users\berkaykarabulut\source\repos\Odev4_2\Odev4_2\obj\Debug\Odev4_2.pdb
